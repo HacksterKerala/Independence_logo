@@ -4,24 +4,28 @@
 
 
 
-D1  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D1.jpg)
+###D1  
+![](http://salmanfaris.me/hackster/D1.png)
 
-D2  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D2.jpg)
+###D2
+![](http://salmanfaris.me/hackster/D2.png)
 
-D3  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D3.jpg)
+###D3
+![](http://salmanfaris.me/hackster/D3.png)
 
-D4  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D4.jpg)
+##D4  
+![](http://salmanfaris.me/hackster/D4.png)
 
-D5  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D5.jpg)
+###D5  
+![](http://salmanfaris.me/hackster/D5.png)
 
-D6  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D6.jpg)
+###D6  
+![](http://salmanfaris.me/hackster/D6.png)
 
-D7  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D7.jpg)
+###D7  
+![](http://salmanfaris.me/hackster/D7.png)
 
-D8  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D8.png)
-
-
-
-
+###D8  
+![](http://salmanfaris.me/hackster/D8.png)
 
 
