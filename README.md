@@ -18,7 +18,7 @@ D6  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D6.
 
 D7  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D7.jpg)
 
-D8  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D8.jpg)
+D8  ![Image](https://github.com/HacksterKerala/Independence_logo/blob/master/D8.png)
 
 
 
